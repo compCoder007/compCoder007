@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=comCoder007)
+
 ![compCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=compCoder007&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=20&hide=assembly,objective-c,astro,ada,GLSL,d,haxe,C#,Scala)

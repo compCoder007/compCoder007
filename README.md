@@ -4,7 +4,7 @@
 
 ![compCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=compCoder007&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=20&hide=assembly,objective-c,astro,ada,GLSL,d,haxe,C#,Scala,solidity)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10&hide=assembly,objective-c,astro,ada,GLSL,d,haxe,C#,Scala)
 
 <!--
 **compCoder007/compCoder007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
